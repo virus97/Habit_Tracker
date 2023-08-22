@@ -1,0 +1,14 @@
+{
+  "name": "coder_habit_tracker-main",
+  "version": "1.0.0",
+  "description": "This is habbit Tracker",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
